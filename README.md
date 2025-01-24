@@ -1,1 +1,4 @@
-lazy-vim에서 git test
+# lazy git nvim
+
+## config 파일 동기화
+
